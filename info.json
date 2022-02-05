@@ -1,0 +1,17 @@
+{
+    "name": "STS Token",
+    "website": "https://www.silverdartconsulting.com/",
+    "telegram": "t.me/SavetheSoil",
+    "discord": "https://discord.com/channels/937957475120996403/937957475745935394",
+    "twitter": "",
+    "description": "SAVE the SOIL (STS) is the saving the soil one Banana Peel at a time!.",
+    "explorer": "https://bscscan.com/token/0x9dC5Fa9346d90119cf8F394570db2e35C81f09e0",
+    "type": "BEP20",
+    "symbol": "BOG",
+    "decimals": 18,
+    "slippage": 3,
+    "status": "active",
+    "id": "0x9dC5Fa9346d90119cf8F394570db2e35C81f09e0",
+    "vested": [ ],
+    "audits": [ ]
+}
